@@ -1,4 +1,11 @@
-# Dummy test repo for [woorelease](https://github.com/woocommerce/woorelease)
+# Test repo for initial [woorelease](https://github.com/woocommerce/woorelease)
+
+This repo didn't have any releases before, try to make one with 
+```
+woorelease cl:generate --product_version=1.0.1 https://github.com/woorelease-bugs/initial/tree/develop
+```
+
+And with https://github.com/woorelease-bugs/initial-release/releases/new?tag=1.0.1
 
 ## Prerequisites
 
