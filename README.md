@@ -7,6 +7,10 @@ woorelease cl:generate --product_version=1.0.1 https://github.com/woorelease-bug
 
 And with https://github.com/woorelease-bugs/initial-release/releases/new?tag=1.0.1
 
+## Reported issue
+
+https://github.com/woocommerce/woorelease/issues/333
+
 ## Prerequisites
 
 We aim to support the latest two minor versions of WordPress, WooCommerce, and PHP. (L-2 policy)
